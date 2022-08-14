@@ -79,8 +79,8 @@ class ChobanFragment : Fragment() {
                 val root: Root? = response.body()
                 if (listItems != null) {
                     listItems!!.clear()
-                    listItems!!.addAll(root?.items!!)
-                    adapter!!.notifyDataSetChanged()
+                    //listItems!!.addAll(root?.items!!)
+                    adapter?.addItem(root?.items!!)
                 }
 
             }

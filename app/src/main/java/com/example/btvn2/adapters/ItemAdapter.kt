@@ -9,8 +9,10 @@ import android.view.ViewGroup
 import android.widget.MediaController
 import android.widget.TextView
 import android.widget.VideoView
+import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.btvn2.callback.DiffUtilCallBack
 import com.example.btvn2.R
 import com.example.btvn2.activity.DetailActivity
 import com.example.btvn2.models.Image
@@ -42,12 +44,7 @@ class ItemAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder> {
             videoView = itemView.findViewById(R.id.video_content)
             published_date = itemView.findViewById(R.id.tv_published_date)
             itemView.setOnClickListener {
-                context!!.startActivity(
-                    Intent(
-                        context,
-                        DetailActivity::class.java
-                    )
-                )
+                context!!.startActivity(Intent(context, DetailActivity::class.java))
             }
         }
     }
@@ -75,7 +72,13 @@ class ItemAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder> {
         }
     }
 
+    public fun addItem(listItem: List<Item>) {
+        val diffUtilCallBack = DiffUtilCallBack(listItems, listItem)
+        val diffResult = DiffUtil.calculateDiff(diffUtilCallBack)
 
+        listItems.addAll(listItem)
+        diffResult.dispatchUpdatesTo(this)
+    }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {
         return if (viewType == VIDEO_ITEM) {
@@ -106,8 +109,7 @@ class ItemAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder> {
                 var uri = Uri.parse(item.content?.href)
                 playVideo(uri, holder.videoView)
             }
-        }
-         else {
+        } else {
             holder as ImageViewHolder
             if (holder.title != null) {
                 holder.title.setText(item.title)

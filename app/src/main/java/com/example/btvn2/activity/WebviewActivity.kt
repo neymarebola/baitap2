@@ -13,6 +13,7 @@ class WebviewActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_webview)
         webView = findViewById<WebView>(R.id.web_view)
+        // settings.setDomStorageEnabled(true) as well with hardwareAccelerated
 
         val intent = intent
         val href = intent.getStringExtra("href")
@@ -20,6 +21,8 @@ class WebviewActivity : AppCompatActivity() {
         with(webView) {
             this?.setWebViewClient(WebViewClient())
             this?.loadUrl(href!!)
+            this?.settings?.domStorageEnabled = true
+            this?.isHardwareAccelerated
         }
     }
 }

@@ -8,11 +8,14 @@ class Item {
     var documentId: String = ""
     var title: String = ""
     var description: String = ""
+
     @SerializedName("content_type")
     var contentType: String = ""
+
     @SerializedName("published_date")
     var publishedDate: Date? = null
     var publisher: Publisher? = null
+
     @SerializedName("origin_url")
     var originUrl: String = ""
     var avatar: Avatar? = null
