@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\drawable-v24_ic_account.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\drawable-v24\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\drawable-v24_ic_dot.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\drawable-v24\\ic_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_image_layout.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\drawable-v24_img_placeholder.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\drawable-v24\\img_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-pngs-23:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_section_video_item_layout.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\section_video_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_fragment_theodoi.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\fragment_theodoi.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\drawable-v24_ic_home.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\drawable-v24\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_image_item_layout.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\image_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_fragment_bongda.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\fragment_bongda.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_video_item_layout.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\video_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_section_text_item_layout.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\section_text_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\drawable-v24_ic_cancel.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\drawable-v24\\ic_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_activity_webview.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_fragment_choban.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\fragment_choban.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\layout_markup_item_layout.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\layout\\markup_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-merged_res-28:\\drawable-v24_ic_expand.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.3.3\\com.example.btvn2.app-main-30:\\drawable-v24\\ic_expand.xml"
+    },
+    {
+        "merged": "com.example.btvn2.app-merged_res-28:/layout_activity_detail.xml.flat",
+        "source": "com.example.btvn2.app-main-30:/layout/activity_detail.xml"
+    }
+]
